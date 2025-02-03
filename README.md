@@ -19,7 +19,7 @@ A simple command-line to-do list application for managing tasks. This program al
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/python-todo-list-manager.git
+   git clone https://github.com/nurulashraf/python-todo-list-manager.git
    ```
 
 2. Navigate to the project directory:
